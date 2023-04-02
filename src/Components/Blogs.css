@@ -1,0 +1,27 @@
+.blogContainer {
+ border: 2px solid red;
+ height: 100vh
+}
+
+.row{
+ height: 25%;
+ margin: 20px;
+ border: 2px solid orange
+}
+
+
+
+.heroes {
+ width: 90%;
+ height: 100%
+}
+
+.col {
+ height: 100%;
+ margin: 5px;
+ border: 2px solid green;
+}
+
+.bottom {
+ height: 40%;
+}
